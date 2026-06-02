@@ -1,6 +1,6 @@
 # DecodeLabs AI Internship Portfolio
 
-Welcome to my central repository for the **DecodeLabs AI Industrial Training (Batch 2026)**. This portfolio contains all the foundational and advanced machine learning projects completed during the internship program.
+Welcome to my central repository for the **DecodeLabs AI Industrial Training **. This portfolio contains all the foundational and advanced machine learning projects completed during the internship program.
 
 ---
 
