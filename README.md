@@ -1,9 +1,3 @@
-# DecodeLabs AI Internship Portfolio
-
-Welcome to my central repository for the **DecodeLabs AI Industrial Training **. This portfolio contains all the foundational and advanced machine learning projects completed during the internship program.
-
----
-
 ## Repository Structure & Project Directory
 
 Every project inside this repository is well-documented and contains its own dedicated application script along with an isolated `README.md` explaining its core logic and metrics.
